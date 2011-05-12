@@ -1,2 +1,2 @@
 print "my name is merlin raja Essaya"
-Print " my age is 25"
+Print " my age is 24"
